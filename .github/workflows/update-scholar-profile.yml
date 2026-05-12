@@ -1,0 +1,44 @@
+name: Update Scholar Profile
+
+on:
+  schedule:
+    - cron: "17 10 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-scholar-profile:
+    runs-on: ubuntu-latest
+    env:
+      SCHOLAR_USER_ID: ${{ vars.SCHOLAR_USER_ID || 'JbrDaPAAAAAJ' }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh Scholar profile JSON
+        run: |
+          python scholar_reader.py \
+            --no-gui \
+            --force-refresh \
+            --profile-file scholar_profile.json
+
+      - name: Commit updated JSON
+        run: |
+          if [ -z "$(git status --porcelain -- scholar_profile.json)" ]; then
+            echo "scholar_profile.json did not change."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scholar_profile.json
+          git commit -m "Update Scholar profile JSON"
+          git push
