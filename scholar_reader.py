@@ -19,7 +19,8 @@ if TYPE_CHECKING:
     import tkinter as tk
 
 
-DEFAULT_USER_ID = "JbrDaPAAAAAJ"
+#DEFAULT_USER_ID = "JbrDaPAAAAAJ"
+DEFAULT_USER_ID = "SoJsGxEAAAAJ"
 DEFAULT_CACHE_DAYS = 7
 DEFAULT_PROFILE_FILE = Path(__file__).resolve().parent / "scholar_profile.json"
 SCHEMA_VERSION = 2
