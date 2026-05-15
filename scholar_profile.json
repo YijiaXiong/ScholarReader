@@ -1,26 +1,46 @@
 {
   "schema_version": 2,
-  "user_id": "SoJsGxEAAAAJ",
-  "profile_url": "https://scholar.google.com/citations?user=SoJsGxEAAAAJ&hl=en&pagesize=100",
-  "name": "Jennifer Yao",
-  "citations": 521,
-  "h_index": 12,
-  "i10_index": 13,
+  "user_id": "JbrDaPAAAAAJ",
+  "profile_url": "https://scholar.google.com/citations?user=JbrDaPAAAAAJ&hl=en&pagesize=100",
+  "name": "Yijia Xiong",
+  "citations": 1698,
+  "h_index": 21,
+  "i10_index": 29,
   "articles": [
     {
-      "title": "In Situ Molecular Imaging of the Biofilm and Its Matrix",
-      "citations": 124,
-      "year": 2016
+      "title": "Extracellular polymeric substances from Shewanella sp. HRCR‐1 biofilms: characterization by infrared spectroscopy and proteomics",
+      "citations": 359,
+      "year": 2011
     },
     {
-      "title": "Improving the molecular ion signal intensity for in situ liquid SIMS analysis",
-      "citations": 61,
-      "year": 2016
+      "title": "High-affinity binding and direct electron transfer to solid metals by the Shewanella oneidensis MR-1 outer membrane c-type cytochrome OmcA",
+      "citations": 272,
+      "year": 2006
     },
     {
-      "title": "Framework for modeling high-impact, low-frequency power grid events to support risk-informed decisions",
-      "citations": 53,
-      "year": 2016
+      "title": "A red cy3-based biarsenical fluorescent probe targeted to a complementary binding peptide",
+      "citations": 129,
+      "year": 2007
+    },
+    {
+      "title": "Hsp90 enhances degradation of oxidized calmodulin by the 20 S proteasome",
+      "citations": 117,
+      "year": 2004
+    },
+    {
+      "title": "Fluorophore-assisted light inactivation of calmodulin involves singlet-oxygen mediated cross-linking and methionine oxidation",
+      "citations": 74,
+      "year": 2006
+    },
+    {
+      "title": "Two-dimensional and three-dimensional dynamic imaging of live biofilms in a microchannel by time-of-flight secondary ion mass spectrometry",
+      "citations": 59,
+      "year": 2015
+    },
+    {
+      "title": "Turn-on ratiometric fluorescent sensor for Pb2+ detection",
+      "citations": 52,
+      "year": 2011
     },
     {
       "title": "Molecular evidence of a toxic effect on a biofilm and its matrix",
@@ -28,36 +48,16 @@
       "year": 2019
     },
     {
-      "title": "Mesoscopic Structure Facilitates Rapid CO2 Transport and Reactivity in CO2 Capture Solvents",
-      "citations": 32,
-      "year": 2018
+      "title": "Enzyme design from the bottom up: an active nickel electrocatalyst with a structured peptide outer coordination sphere",
+      "citations": 45,
+      "year": 2014
     },
     {
-      "title": "Two coexisting liquid phases in switchable ionic liquids",
-      "citations": 29,
-      "year": 2017
-    },
-    {
-      "title": "New insights into secondary organic aerosol formation at the air–liquid interface",
-      "citations": 19,
-      "year": 2020
-    },
-    {
-      "title": "Understanding time dependence on zinc metal–organic framework growth using in situ liquid secondary ion mass spectrometry",
-      "citations": 16,
-      "year": 2019
-    },
-    {
-      "title": "In situ characterization of Shewanella oneidensis MR1 biofilms by SALVI and ToF-SIMS",
-      "citations": 15,
-      "year": 2017
-    },
-    {
-      "title": "Liquid ToF-SIMS revealing the oil, water, and surfactant interface evolution",
-      "citations": 14,
-      "year": 2020
+      "title": "Field ionization of aliphatic ketones by intense femtosecond laser",
+      "citations": 42,
+      "year": 2001
     }
   ],
-  "date": "2026-05-13",
-  "retrieved_at": "2026-05-13T00:14:37-07:00"
+  "date": "2026-05-15",
+  "retrieved_at": "2026-05-15T13:41:09-07:00"
 }
