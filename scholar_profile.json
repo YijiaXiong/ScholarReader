@@ -3,7 +3,7 @@
   "user_id": "JbrDaPAAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=JbrDaPAAAAAJ&hl=en&pagesize=100",
   "name": "Yijia Xiong",
-  "citations": 1699,
+  "citations": 1702,
   "h_index": 21,
   "i10_index": 29,
   "articles": [
@@ -19,12 +19,12 @@
     },
     {
       "title": "A red cy3-based biarsenical fluorescent probe targeted to a complementary binding peptide",
-      "citations": 130,
+      "citations": 131,
       "year": 2007
     },
     {
       "title": "Hsp90 enhances degradation of oxidized calmodulin by the 20 S proteasome",
-      "citations": 117,
+      "citations": 118,
       "year": 2004
     },
     {
@@ -58,6 +58,6 @@
       "year": 2001
     }
   ],
-  "date": "2026-05-18",
-  "retrieved_at": "2026-05-18T14:02:16+00:00"
+  "date": "2026-06-01",
+  "retrieved_at": "2026-06-01T22:06:32-07:00"
 }
