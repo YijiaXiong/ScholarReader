@@ -3,13 +3,13 @@
   "user_id": "JbrDaPAAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=JbrDaPAAAAAJ&hl=en&pagesize=100",
   "name": "Yijia Xiong",
-  "citations": 1702,
+  "citations": 1699,
   "h_index": 21,
   "i10_index": 29,
   "articles": [
     {
       "title": "Extracellular polymeric substances from Shewanella sp. HRCR‐1 biofilms: characterization by infrared spectroscopy and proteomics",
-      "citations": 359,
+      "citations": 356,
       "year": 2011
     },
     {
@@ -58,6 +58,6 @@
       "year": 2001
     }
   ],
-  "date": "2026-06-01",
-  "retrieved_at": "2026-06-01T22:06:32-07:00"
+  "date": "2026-06-08",
+  "retrieved_at": "2026-06-08T14:31:24+00:00"
 }
