@@ -3,9 +3,9 @@
   "user_id": "JbrDaPAAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=JbrDaPAAAAAJ&hl=en&pagesize=100",
   "name": "Yijia Xiong",
-  "citations": 1700,
+  "citations": 1702,
   "h_index": 21,
-  "i10_index": 29,
+  "i10_index": 30,
   "articles": [
     {
       "title": "Extracellular polymeric substances from Shewanella sp. HRCR‐1 biofilms: characterization by infrared spectroscopy and proteomics",
@@ -14,7 +14,7 @@
     },
     {
       "title": "High-affinity binding and direct electron transfer to solid metals by the Shewanella oneidensis MR-1 outer membrane c-type cytochrome OmcA",
-      "citations": 271,
+      "citations": 272,
       "year": 2006
     },
     {
@@ -58,6 +58,6 @@
       "year": 2001
     }
   ],
-  "date": "2026-06-29",
-  "retrieved_at": "2026-06-29T14:29:34+00:00"
+  "date": "2026-07-06",
+  "retrieved_at": "2026-07-06T14:03:17+00:00"
 }
